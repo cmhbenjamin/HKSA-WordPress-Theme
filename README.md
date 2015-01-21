@@ -6,27 +6,27 @@ Using WordPress for the student organization’s website has the advantage of ea
 In order to have a consistence design across all the pages, I designed a few templete pages for the mainfunctionality of the site:
 
 1.  **Front page**
-    [front page](screenshots/front_page.png)
+    ![Front page image](screenshots/front_page.png?raw=true)
 
 2.  **About page**
-    [about page](screenshots/about_page.png)
+    ![About page image](screenshots/about_page.png?raw=true)
     About pages includes about us, about hk, contact, event descriptions, join us…
     Consists of a image with a small description
 
 3.  **Officers page**
-    [officers page](screenshots/officer_dp_edit)
+    ![Officers page image](screenshots/officer_dp_edit.png?raw=true)
     Shows a list of officers grouped by their position
 
 4.  **Sponsors page**
-    [sponsors page](screenshots/sponsors_and_discount_view.png)
+    ![sponsors page](screenshots/sponsors_and_discount_view.png?raw=true)
     Shows a list of companies that support the organization
 
 5.  **Event page**
-    [event page](screenshots/event_view.png)
+    ![event page screen](screenshots/event_view.png?raw=true)
     Display a Event, with gallery
 
 6.  **Navigation page for mobile browser**
-    [navigation menu](screenshots/navigation_menu.png)
+    ![navigation page screen](screenshots/navigation_menu?raw=true)
     Shows a list of options for mobile user to navigate
 
 ## Tasks
