@@ -1,14 +1,18 @@
 # HKSA-WordPress-Theme
 This is a wordpress I created for Hong Kong Student Association at University of Washington in 2013
 http://students.washington.edu/hksa/
+[Basic structure](##Basic Structure)
+[Simple tasks](## Tasks)
 ## Basic Structure
 Using WordPress for the student organization’s website has the advantage of easy management for people without web development background. It was designed with responsive web design approach to allow easy navigation on all kind of device with different monitor size.
 In order to have a consistence design across all the pages, I designed a few templete pages for the mainfunctionality of the site:
 
 1.  **Front page**
+
     Index page, logo with a randomly picked background image
     Edit page: Pages > Front Page Images
     Structure:
+
     ```html
     <img src="image1_url" />
     <img src="image2_url" />
@@ -16,9 +20,11 @@ In order to have a consistence design across all the pages, I designed a few tem
     ![Front page image](screenshots/front_page.png?raw=true)
 
 2.  **About page**
+
     Consists of a image with a small description
     Edit page: Pages > about us, about hk, contact, event descriptions, join us…
     Structure:
+
     ```html
     <img src="top_image_url" />
     <h1>title</h1>
@@ -27,8 +33,10 @@ In order to have a consistence design across all the pages, I designed a few tem
     ![About page image](screenshots/about_page.png?raw=true)
 
 3.  **Officers page**
+
     Shows a list of officers grouped by their position
     Structure:
+
     ```html
     <h1>Position</h1>
     Officer Name 1
@@ -46,15 +54,18 @@ In order to have a consistence design across all the pages, I designed a few tem
     ![Officers page image](screenshots/officer_dp_edit_3.png?raw=true)
 
 4.  **Sponsors page**
+
     Shows a list of companies that support the organization
     ![sponsors page](screenshots/sponsors_and_discount_view.png?raw=true)
 
 5.  **Event page**
+
     Shows the detils of event, with an optional gallery
     ![event page screen](screenshots/event_view.png?raw=true)
 
 
 6.  **Navigation page for mobile browser**
+
     Shows a list of options for mobile user to navigate
     ![navigation page screen](screenshots/menu.png?raw=true)
 
@@ -99,6 +110,7 @@ The office page show a list of officers grouped in their rol
 ###Change events
 Event page is a variation of the about page
 ![event pages](screenshots/page_edit.png?raw=true)
+
 1.  From the menu, select Pages
 2.  Create a new page
 3.  At the page attribute box, make sure the template is "about page custom".
@@ -107,6 +119,7 @@ Event page is a variation of the about page
 
 ###Editing the Menu
 ![menu_edit](screenshots/menu_edit.png?raw=true)
+
 1.  Go to Apperance > Menu
 2.  Search from the pages and add it to the menu
 3.  Drag the item to arrange the order
@@ -114,6 +127,7 @@ Event page is a variation of the about page
 ###Update front page image
 Everytime front page is loaded, it randomly pickes an image from this list
 ![front page image](screenshots/frontpageimage_edit.png?raw=true)
+
 1.  Find the page "Front Page Images" in the Page menu
 2.  Add or remove the image on the page
 
