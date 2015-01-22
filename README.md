@@ -15,6 +15,7 @@ In order to have a consistence design across all the pages, I designed a few tem
 1.  **Front page**
 
     Index page, logo with a randomly picked background image
+
     Edit page: Pages > Front Page Images
 
     Structure:
@@ -29,6 +30,7 @@ In order to have a consistence design across all the pages, I designed a few tem
 2.  **About page**
 
     Consists of a image with a small description
+
     Edit page: Pages > about us, about hk, contact, event descriptions, join us…
 
     Structure:
@@ -44,6 +46,8 @@ In order to have a consistence design across all the pages, I designed a few tem
 3.  **Officers page**
 
     Shows a list of officers grouped by their position
+
+    Edit page: Pages > Officers
 
     Structure:
 
@@ -62,11 +66,14 @@ In order to have a consistence design across all the pages, I designed a few tem
     <hr />
     ```
 
-    ![Officers page image](screenshots/officer_dp_edit_3.png?raw=true)
+    ![Officers page image](screenshots/officer_view.png?raw=true)
 
 4.  **Sponsors page**
 
     Shows a list of companies that support the organization
+
+    Edit index page: Pages > Sponsors & Discounts
+    Edit pages: Posts > Sponsor
 
     ![sponsors page](screenshots/sponsors_and_discount_view.png?raw=true)
 
@@ -81,7 +88,7 @@ In order to have a consistence design across all the pages, I designed a few tem
 
     Shows a list of options for mobile user to navigate
 
-    ![navigation page screen](screenshots/menu.png?raw=true)
+    ![navigation page screen](screenshots/nav_view.png?raw=true)
 
 
 ##Tasks
@@ -166,7 +173,8 @@ Everytime front page is loaded, it randomly pickes an image from this list
 Every post represent a sponsor, which are group into different area with tag "u-district", "internation district" and other
 The sponsor page shows all the posts and group them into different area
 
-![front page image](screenshots/frontpageimage_edit.png?raw=true)
+![front page image](screenshots/post.png?raw=true)
+![front page image](screenshots/post_edit?raw=true)
 
 1.  Go to post
 2.  A
